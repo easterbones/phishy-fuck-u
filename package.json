@@ -16,13 +16,13 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "",
+  "homepage": "https://github.com/Giraffaaaaa/phishy-fuck-u",
   "author": {
     "name": "Giraffaaaaa"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Giraffaaaaa/phishy-fuck-u",
+    "url": "git+https://github.com/Giraffaaaaa/phishy-fuck-u.git",
     "directory": "Phishy-MD"
   },
   "bugs": {
