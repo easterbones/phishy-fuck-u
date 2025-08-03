@@ -6,12 +6,16 @@
   <a href="https://github.com/easterbones/phishy-fuck-u/stargazers"><img src="https://img.shields.io/github/stars/easterbones/phishy-fuck-u?color=yellow&style=for-the-badge"></a>
   <a href="https://github.com/easterbones/phishy-fuck-u/forks"><img src="https://img.shields.io/github/forks/easterbones/phishy-fuck-u?color=cyan&style=for-the-badge"></a>
   <a href="https://github.com/easterbones/phishy-fuck-u/issues"><img src="https://img.shields.io/github/issues/easterbones/phishy-fuck-u?color=blue&style=for-the-badge"></a>
-  ![hits](https://hits.seeyoufarm.com/api/unstable/badge/![hits](https://hits.seeyoufarm.com/api/unstable/badge/your_repo_url.svg))
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feasterbones%2Fphishy-fuck-u&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=true" alt="hits">
 </p>
 
 ---
 
 ## 🤖 Che cos'è Phishy-Fuck-U?
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" alt="Bot in azione" width="600">
+</p>
 
 Phishy-Fuck-U è un bot WhatsApp **multi-funzione** potente e versatile, basato sulla libreria **[whiskeysockets/baileys](https://github.com/WhiskeySockets/Baileys)**. Progettato per essere usato sia in chat private che in gruppi, offre un'ampia gamma di funzionalità: automazioni, giochi, strumenti di moderazione, utility, e molto altro. L'installazione è semplice e i plugin sono altamente personalizzabili.
 
@@ -28,6 +32,10 @@ Phishy-Fuck-U è un bot WhatsApp **multi-funzione** potente e versatile, basato 
 | **🤖 Intelligenza Artificiale** | Generazione di immagini tramite AI, risposte intelligenti, `effetti su immagini`, `avatar`, e molto altro. |
 | **📂 Gestione File e Backup** | Controllo totale sui tuoi dati: `upload/download Google Drive`, `cloud`, `backup`, `restore`, e gestione del database. |
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Funzionalità in azione" width="600">
+</p>
+
 ---
 
 ## ⚙️ Installazione (Passo dopo Passo)
@@ -43,7 +51,7 @@ Phishy-Fuck-U è un bot WhatsApp **multi-funzione** potente e versatile, basato 
 
 1.  **Clona il Repository**
     ```bash
-    git clone [https://github.com/easterbones/phishy-fuck-u.git](https://github.com/easterbones/phishy-fuck-u.git)
+    git clone https://github.com/easterbones/phishy-fuck-u.git
     cd phishy-fuck-u
     ```
 
@@ -63,9 +71,17 @@ Phishy-Fuck-U è un bot WhatsApp **multi-funzione** potente e versatile, basato 
 5.  **Collega il tuo WhatsApp**
     Segui le istruzioni a schermo per scansionare il **codice QR** o inserire il **codice a 8 cifre** per connettere il tuo account.
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" alt="Installazione" width="600">
+</p>
+
 ---
 
 ## 🌐 Community e Contatti
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" alt="Contattaci" width="600">
+</p>
 
 Per supporto, domande o suggerimenti, apri una **[Issue](https://github.com/easterbones/phishy-fuck-u/issues)** su questo repository.
 
