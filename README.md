@@ -6,7 +6,7 @@
   <a href="https://github.com/easterbones/phishy-fuck-u/stargazers"><img src="https://img.shields.io/github/stars/easterbones/phishy-fuck-u?color=yellow&style=for-the-badge"></a>
   <a href="https://github.com/easterbones/phishy-fuck-u/forks"><img src="https://img.shields.io/github/forks/easterbones/phishy-fuck-u?color=cyan&style=for-the-badge"></a>
   <a href="https://github.com/easterbones/phishy-fuck-u/issues"><img src="https://img.shields.io/github/issues/easterbones/phishy-fuck-u?color=blue&style=for-the-badge"></a>
-  ![visitatori](https://visitor-badge.glitch.me/badge?page_id=easterbones.phishy-fuck-u)
+  ![hits](https://hits.seeyoufarm.com/api/unstable/badge/![hits](https://hits.seeyoufarm.com/api/unstable/badge/your_repo_url.svg))
 </p>
 
 ---
