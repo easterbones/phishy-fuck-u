@@ -3,9 +3,9 @@
 <p align="center">
   <a href="https://github.com/WhiskeySockets/Baileys" title="Baileys"><img src="https://img.shields.io/badge/baileys-5.0.0-red?style=for-the-badge&logo=github"></a>
   <img src="https://img.shields.io/badge/node.js-v18.x-green?style=for-the-badge&logo=nodedotjs">
-  <a href="https://github.com/tuo-username/phishy-fuck-u/stargazers"><img src="https://img.shields.io/github/stars/tuo-username/phishy-fuck-u?color=yellow&style=for-the-badge"></a>
-  <a href="https://github.com/tuo-username/phishy-fuck-u/forks"><img src="https://img.shields.io/github/forks/tuo-username/phishy-fuck-u?color=cyan&style=for-the-badge"></a>
-  <a href="https://github.com/tuo-username/phishy-fuck-u/issues"><img src="https://img.shields.io/github/issues/tuo-username/phishy-fuck-u?color=blue&style=for-the-badge"></a>
+  <a href="https://github.com/easterbones/phishy-fuck-u/stargazers"><img src="https://img.shields.io/github/stars/easterbones/phishy-fuck-u?color=yellow&style=for-the-badge"></a>
+  <a href="https://github.com/easterbones/phishy-fuck-u/forks"><img src="https://img.shields.io/github/forks/easterbones/phishy-fuck-u?color=cyan&style=for-the-badge"></a>
+  <a href="https://github.com/easterbones/phishy-fuck-u/issues"><img src="https://img.shields.io/github/issues/easterbones/phishy-fuck-u?color=blue&style=for-the-badge"></a>
   ![visitor-badge](https://visitor-badge.glitch.me/badge?page_id=easterbones.phishy-fuck-u)
 </p>
 
@@ -43,7 +43,7 @@ Phishy-Fuck-U è un bot WhatsApp **multi-funzione** potente e versatile, basato 
 
 1.  **Clona il Repository**
     ```bash
-    git clone [https://github.com/tuo-username/phishy-fuck-u.git](https://github.com/tuo-username/phishy-fuck-u.git)
+    git clone [https://github.com/easterbones/phishy-fuck-u.git](https://github.com/easterbones/phishy-fuck-u.git)
     cd phishy-fuck-u
     ```
 
@@ -67,10 +67,10 @@ Phishy-Fuck-U è un bot WhatsApp **multi-funzione** potente e versatile, basato 
 
 ## 🌐 Community e Contatti
 
-Per supporto, domande o suggerimenti, apri una **[Issue](https://github.com/tuo-username/phishy-fuck-u/issues)** su questo repository.
+Per supporto, domande o suggerimenti, apri una **[Issue](https://github.com/easterbones/phishy-fuck-u/issues)** su questo repository.
 
 ---
 
 <p align="center">
-  Realizzato con ❤️ da [Il tuo nome/nickname](https://github.com/tuo-username)
+  Realizzato con ❤️ da easterbones(https://github.com/easterbones)
 </p>
