@@ -6,7 +6,7 @@
   <a href="https://github.com/easterbones/phishy-fuck-u/stargazers"><img src="https://img.shields.io/github/stars/easterbones/phishy-fuck-u?color=yellow&style=for-the-badge"></a>
   <a href="https://github.com/easterbones/phishy-fuck-u/forks"><img src="https://img.shields.io/github/forks/easterbones/phishy-fuck-u?color=cyan&style=for-the-badge"></a>
   <a href="https://github.com/easterbones/phishy-fuck-u/issues"><img src="https://img.shields.io/github/issues/easterbones/phishy-fuck-u?color=blue&style=for-the-badge"></a>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feasterbones%2Fphishy-fuck-u&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=true" alt="hits">
+  <img src="https://komarev.com/ghpvc/?username=easterbones-phishy-fuck-u&label=Visite&color=orange&style=for-the-badge" alt="Contatore Visite">
 </p>
 
 ---
